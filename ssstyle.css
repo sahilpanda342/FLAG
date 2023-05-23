@@ -1,0 +1,40 @@
+ .flag{
+    background-color: red ;
+    width: 900px;
+    height: 600px ;
+    position: relative;
+    bottom: 30%;
+    left: 25%;
+}
+.mid{
+background-color: blue;
+  width: 900px;
+    height: 300px ;
+    position: absolute;
+    top: 25%;
+}
+.circle{
+    background-color: white;
+    width: 200px;
+    height: 200px ;
+    border-radius: 50%;
+    position: absolute;
+    left: 37%;
+    top: 15%;
+}
+p{
+   font-size: 5rem;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 60%;
+    margin-left: 50px;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left:70px;
+}
